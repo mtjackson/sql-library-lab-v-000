@@ -8,4 +8,5 @@ INSERT INTO books (title, year) VALUES ('Martian Attack', 1973),
 INSERT INTO characters (name, species, motto) VALUES
   ('Captain Leo', 'Human', 'Not on my watch, buckaroos'),
   ('Captain Xander', 'Human', 'The sun never sets on the British Empire...in SPACE'),
-  ('Admiral Zelda', 'Human')
+  ('Admiral Zelda', 'Human (or is she...)', 'Full speed ahead'),
+  
