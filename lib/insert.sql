@@ -6,4 +6,4 @@ INSERT INTO books (title, year) VALUES ('Martian Attack', 1973),
   ('911...in SPACE', 1960);
 
 INSERT INTO characters (name, species, motto) VALUES
-  
+  ('Captain Leo', 'Human', 'Not on my watch, buckaroos'), 
