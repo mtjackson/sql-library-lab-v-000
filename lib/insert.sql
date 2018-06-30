@@ -20,4 +20,4 @@ INSERT INTO subgenres (name) VALUES ('wacky space fiction'), ('wacky dinosaur fi
 INSERT INTO authors (name) VALUES ('Joe "Definitely Not a Pen Name" Vegas'),
   ('Alexi Volkava');
 
-INSERT INTO character_books
+INSERT INTO character_books (book_id, character_id)
