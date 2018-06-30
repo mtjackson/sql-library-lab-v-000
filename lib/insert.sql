@@ -21,4 +21,4 @@ INSERT INTO authors (name) VALUES ('Joe "Definitely Not a Pen Name" Vegas'),
   ('Alexi Volkava');
 
 INSERT INTO character_books (book_id, character_id) VALUES
-  ()
+  (1, 1)
