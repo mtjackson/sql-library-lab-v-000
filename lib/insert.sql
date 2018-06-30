@@ -1,2 +1,2 @@
-INSERT INTO series (title, author_id, subgenre_id)
-
+INSERT INTO series (title) VALUES 
+  ('Space Adventures 2000')
