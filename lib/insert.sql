@@ -1,2 +1,2 @@
-INSERT INTO series (title) VALUES 
-  ('Space Adventures 2000')
+INSERT INTO series (title) VALUES
+  ('Space Adventures 2000'), ('Lost Continent')
