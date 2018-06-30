@@ -10,4 +10,6 @@ CREATE TABLE subgenres (
   name TEXT
 )
 
-CREATE TABLE 
+CREATE TABLE authors (
+  
+)
