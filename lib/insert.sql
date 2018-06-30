@@ -15,4 +15,4 @@ INSERT INTO characters (name, species, motto) VALUES
   ('Dirk Gutpuncher', 'Human', 'Hello, ladies...'),
   ('Adriann', 'Human', '*stares intensely*');
 
-INSERT INTO 
+INSERT INTO subgenres VALUES
