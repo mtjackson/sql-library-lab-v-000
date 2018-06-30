@@ -5,4 +5,4 @@ INSERT INTO books (title, year) VALUES ('Martian Attack', 1973),
   ('The Incredible Flying Man', 1955), ('The Quest for Captain Leo', 1970),
   ('911...in SPACE', 1960);
 
-INSERT INTO characters ()
+INSERT INTO characters (name, species, mottos)
