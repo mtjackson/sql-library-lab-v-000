@@ -14,3 +14,5 @@ INSERT INTO characters (name, species, motto) VALUES
   ('Jill the Farmer', 'Human', 'Everyone is terrible'),
   ('Dirk Gutpuncher', 'Human', 'Hello, ladies...'),
   ('Adriann', 'Human', '*stares intensely*');
+
+INSERT INTO 
