@@ -16,3 +16,5 @@ INSERT INTO characters (name, species, motto) VALUES
   ('Adriann', 'Human', '*stares intensely*');
 
 INSERT INTO subgenres (name) VALUES ('wacky space fiction'), ('wacky dinosaur fiction');
+
+INSERT INTO 
